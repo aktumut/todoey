@@ -13,7 +13,8 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.2
-  provider: ^6.0.5
+  firebase_core: ^2.7.1
+  firebase_auth: ^4.2.10
 
 
 dev_dependencies:
@@ -41,4 +42,6 @@ flutter:
     - assets/images/Icons/MonochromeGoogle.png
     - assets/images/bears/bearWithHat.png
     - assets/images/bears/bearWithBlackHat.png
+    - assets/images/todoey_logo_black.png
+    - assets/images/todoey_logo_white.png
 
